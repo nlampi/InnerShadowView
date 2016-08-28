@@ -1,6 +1,5 @@
 //
 //  InnerShadowView.h
-//  ShadowTest
 //
 //  Created by nlampi on 8/28/16.
 //

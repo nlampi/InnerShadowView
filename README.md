@@ -1,7 +1,7 @@
 InnerShadowView
 ==================
 
-InnerShadowView is a view that allows you to quickly and easily add inner shadows to your views. It is configurable to allow shadows to grow from any or all of the view edges. The view is also IB Designable so you can create and modify the view from within Interface Builder, seeing your changes live.
+InnerShadowView is a UIView subclass that allows you to quickly and easily add inner shadows to your views. It is configurable to allow shadows to grow from any or all of the view edges. The view is also IB Designable so you can create and modify the view from within Interface Builder, seeing your changes live.
 
 ## Usage
 
